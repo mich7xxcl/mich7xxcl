@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mich7xxcl
 - 👀 I’m interested in exploring and learning everthing possible
-- 🌱 I’m currently learning Ruby programming
+- 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on whatever sounds fun
 - 📫 If you;ve got something for me ..hit me up michaelajayi222@gmail.com
 
