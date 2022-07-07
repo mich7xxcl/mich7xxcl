@@ -2,7 +2,7 @@
 - 👀 I’m interested in exploring and learning everthing possible
 - 🌱 I’m currently learning Python programming
 - 💞️ I’m looking to collaborate on whatever sounds fun
-- 📫 If you;ve got something for me ..hit me up michaelajayi222@gmail.com
+- 📫 If you've got something for me ..hit me up michaelajayi222@gmail.com
 
 <!---
 mich7xxcl/mich7xxcl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
